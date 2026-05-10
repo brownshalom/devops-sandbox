@@ -1,0 +1,7 @@
+nohup.out
+logs/
+envs/
+monitor/nohup.out
+*.log
+__pycache__/
+venv/
