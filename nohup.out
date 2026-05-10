@@ -1,0 +1,24 @@
+env-894a43-app
+env-894a43-app
+env-894a43-net
+2026/05/10 14:14:47 [notice] 43#43: signal process started
+./platform/destroy_env.sh: line 23: kill: (12704) - No such process
+env-894a43 destroyed
+env-1d3cc0-app
+env-1d3cc0-app
+env-1d3cc0-net
+2026/05/10 15:04:59 [notice] 57#57: signal process started
+./platform/destroy_env.sh: line 23: kill: (14367) - No such process
+env-1d3cc0 destroyed
+env-09dfd4-app
+env-09dfd4-app
+env-09dfd4-net
+2026/05/10 15:17:17 [notice] 71#71: signal process started
+./platform/destroy_env.sh: line 23: kill: (15107) - No such process
+env-09dfd4 destroyed
+env-5261d9-app
+env-5261d9-app
+env-5261d9-net
+2026/05/10 15:30:10 [notice] 85#85: signal process started
+./platform/destroy_env.sh: line 23: kill: (15814) - No such process
+env-5261d9 destroyed
